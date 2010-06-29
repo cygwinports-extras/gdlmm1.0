@@ -1,0 +1,7 @@
+inherit gtkmm
+
+
+PKG_NAMES="${PN} libgdlmm1.0_0 libgdlmm1.0-devel"
+libgdlmm1_0_0_CONTENTS="--exclude=gdlmm-1.0 usr/bin/*-1.0-0.dll usr/share/doc/"
+libgdlmm1_0_devel_CONTENTS="usr/include/ usr/lib/ usr/share/devhelp/ usr/share/doc/gdlmm-1.0/"
+

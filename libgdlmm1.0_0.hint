@@ -1,0 +1,5 @@
+category: Gnome
+requires: libatkmm1.6_1 libgcc1 libgdl1_3 libglib2.0_0 libglibmm2.4_1 libgtk2.0_0 libgtkmm2.4_1 libsigc2.0_0 libstdc++6
+external-source: gdlmm1.0
+sdesc: "C++ bindings for GNOME devtools library (runtime)"
+sdesc: "C++ bindings for GNOME devtools library"
